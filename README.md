@@ -1,4 +1,4 @@
-# g12summativ
+# g12summative
 
 Project I created in grade 12 with a friend as our tech summative, the project uses an aruduino, 8x8 matrix and flex sensors to convert sign language symbols into letters
 
